@@ -2,8 +2,8 @@
 	export async function load({ page }) {
 		return {
 			Headers: {
-                Location: "/"
-            }
+				Location: "/"
+			}
 		}
 	}
 </script>

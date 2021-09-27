@@ -35,7 +35,7 @@
 		}
 
 		if (currGen === 5) {
-			getPokemon(494, 155).then(d => pokemon = d)
+			getPokemon(494, 155).then((d) => (pokemon = d))
 		}
 
 		if (currGen === 4) {
